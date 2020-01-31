@@ -62,6 +62,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\AxeBob.cs" />
+    <Compile Include="Assets\Scripts\AxeSwipe.cs" />
+    <Compile Include="Assets\Scripts\CircularMotion.cs" />
+    <Compile Include="Assets\Scripts\Controls.cs" />
+    <Compile Include="Assets\Scripts\ManBob.cs" />
+    <Compile Include="Assets\Scripts\MqCommon.cs" />
     <Compile Include="Assets\SwipeController.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/james/Documents/GitHub/gamejam/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
