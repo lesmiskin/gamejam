@@ -1,0 +1,9 @@
+Music:
+https://creativecommons.org/about/program-areas/arts-culture/arts-culture-resources/legalmusicforvideos/
+https://freemusicarchive.org/curator/Creative_Commons
+
+Graphics:
+https://assetstore.unity.com/
+
+Troubleshooting:
+https://thoughtbot.com/blog/how-to-git-with-unity
