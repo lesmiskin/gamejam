@@ -14,8 +14,8 @@ Must do
 [x] Hook up blood gusher.                                       Les
 [x] Screen shaking on impact / miss                             Les
 [x] Hairstyle sizing proportional to no. of hits                Les
-
-[ ] Extra score UI elements                                     Les
+[x] Extra score UI elements                                     Les
+[x] Tweak the bobbing speeds for actual challenge / good gameplay.
 
 [ ] Trigger sounds for impact + death in SwipeController
 - decap_gore
@@ -26,7 +26,6 @@ Must do
 Nice to do
 -------
 [ ] More blood splatters when you lose.
-[ ] Tweak the bobbing speeds for actual challenge / good gameplay.
 [ ] Fix bug - head starts falling with gravity immediately
 
 Post-cutoff
@@ -37,53 +36,3 @@ Post-cutoff
 [ ] Add "Adam ?" to credit list (for hair graphic).
 [ ] Upload game EXE to Global Game Jam web site.
 [ ] Fill out rest of Game Jam game page form.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Tasks To Be Completed
-[ ] Squelch sounds - done
-[ ] Blood gushing
-[ ] Title screen
-[ ] Splash screens - good/bad endings
-[ ] integrate UI layer (scores, blood decals)
-
-[ ] effects for hair lopping
-  [ ] hair sprite changes when lopped (just downscale it, rotate it left a bit + particle effects)
-  [ ] hair particle effects (james help?)
-  [ ] screen shake when lopped at.
-
-[ ] behead sequence gets toggled on-demand
-  [ ] blood gushing from neck
-  [ ] blood trails from head
-  
-[ ] sound effects for cutting & chopping of hair.
-[ ] unique theme for actual gameplay? / change music?
-
-[ ] countdown on main game?
-
-[ ] hair particle effect (explosion, particle effect).
-[ ] blood particle effect when chopping neck.
-
-[ ] screen shake + hair superimposed.
-[ ] screen shake + skull superimposed for behead.
-
-[ ] tweak the bobbing speeds for actual challenge / good gameplay.
-
-[ ] add "Adam ?" to credit list (for hair graphic).
-[ ] make our game page on Global Game Jam web site.
-[ ] export our game as EXE for upload
-
-[ ] check licensing for assets used (CC-BY)
-
-shorturl.at/zPQTX
