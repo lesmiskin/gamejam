@@ -3,9 +3,9 @@ Our game on the Game Jam web site: https://globalgamejam.org/node/66510/edit
 
 Must do
 -------
+[x] Fix decapitation sequence (see Dr. Google / asset store).   Les
 [ ] Score UI                                                    Les
 [ ] Jagged hairstyle sprite replacements.                       Les
-[x] Fix decapitation sequence (see Dr. Google / asset store).   Les
 [ ] After decapitation delay, change to bad end scene           Les
 [ ] Hook up blood gusher.                                       Scott
 [ ] Hook up sounds for impact (cut and miss)                    Scott
