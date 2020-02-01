@@ -1,15 +1,16 @@
 Tasks To Be Completed
-
-Squelch sounds - done
-
-Blood gushing
-Title screen
-
-Theme sound
-Model of man. 
-
-Splash screens - good/bad endings
-
-Hair textures. 
+[ ] Squelch sounds - done
+[ ] Blood gushing
+[ ] Title screen
+[ ] Theme sound
+[ ] Splash screens - good/bad endings
+[ ] hair particle effect (explosion, particle effect).
+[ ] blood particle effect when chopping neck.
+[ ] behead sequence (flying head + blood trails, bounce if possible).
+[ ] separate level scene for "5 sweeps, please Mr. Reaper!" (randomised)
+[ ] integrate UI layer (scores, blood decals)
+[ ] screen shake + hair superimposed.
+[ ] screen shake + skull superimposed for behead.
+[ ] tweak the bobbing speeds for actual challenge / good gameplay.
 
 shorturl.at/zPQTX
