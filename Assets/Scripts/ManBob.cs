@@ -65,6 +65,6 @@ public class ManBob : MonoBehaviour
         // );
 
         // Absolute position
-        transform.Rotate(movement);
+//        transform.Rotate(movement);
     }
 }

@@ -19,7 +19,7 @@ public class ScreenChange : MonoBehaviour
         if(UnityEngine.Input.GetKeyDown("space")) {
             // Start the game.
             // if(GameMode == 0) {
-                SceneManager.LoadScene("SampleScene", LoadSceneMode.Single);        
+                SceneManager.LoadScene("welcome", LoadSceneMode.Single);
                 GameMode = 1;
 
             // Loop back to the start of the game.

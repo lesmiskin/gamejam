@@ -9,8 +9,8 @@ public class SwipeController : MonoBehaviour
     // ========
     public static int score_cuts = 0;
     public static int score_hits = 0;
-    public const int cut_limit = 3;
-    public const int hit_limit = 3;
+    public static int cut_limit = 3;
+    public static int hit_limit = 3;
 
 
     bool isSwiping = false;
@@ -108,7 +108,12 @@ public class SwipeController : MonoBehaviour
     void doHit() {
         // Too many hits? Fatality!
         if(score_hits+1 == hit_limit) {
-            SceneManager.LoadScene("end_bad", LoadSceneMode.Additive);        
+            var torso = GameObject.Find("behead_torso");
+            var head = GameObject.Find("behead_head");
+
+            torso.GetComponent<Rigidbody2D>().constraints = 0;
+
+//            SceneManager.LoadScene("end_bad", LoadSceneMode.Additive);        
             return;
         }
         score_hits++;

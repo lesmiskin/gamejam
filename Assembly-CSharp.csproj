@@ -45,16 +45,19 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets\HeadScript.cs" />
      <Compile Include="Assets\SFXPlayer.cs" />
      <Compile Include="Assets\Scripts\AxeBob.cs" />
      <Compile Include="Assets\Scripts\AxeSwipe.cs" />
      <Compile Include="Assets\Scripts\CircularMotion.cs" />
      <Compile Include="Assets\Scripts\Controls.cs" />
+     <Compile Include="Assets\Scripts\CustomerRequestsScript.cs" />
      <Compile Include="Assets\Scripts\ManBob.cs" />
      <Compile Include="Assets\Scripts\MqCommon.cs" />
      <Compile Include="Assets\Scripts\ReturnToTitle.cs" />
      <Compile Include="Assets\Scripts\ScreenChange.cs" />
      <Compile Include="Assets\Scripts\SwipeController.cs" />
+     <Compile Include="Assets\Scripts\WelcomeScreenChange.cs" />
      <Compile Include="Assets\UIController.cs" />
      <Compile Include="Assets\mainThemeplayer.cs" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Surface.cginc" />
