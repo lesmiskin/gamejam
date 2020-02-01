@@ -1,3 +1,45 @@
+1 / 1:30 hard cut-off
+
+Must do
+-------
+Score UI                                                    Les
+Jagged hairstyle sprite replacements.                       Les
+Fix decapitation sequence (see Dr. Google / asset store).   Les
+Hook up blood gusher.                                       Scott
+Hook up sounds for impact (cut and miss)                    Scott
+Unique pieces of music hooked up                            Scott
+Fix swipe / impact timing                                   James
+Connect the blood splatter with hits.                       James
+Add nice title and end screens.                             James
+
+Nice to do
+-------
+More blood splatters when you lose.
+tweak the bobbing speeds for actual challenge / good gameplay.
+Screen shaking on impact / miss
+
+Post-cutoff
+-----------
+Double-check licensing for assets used (CC-BY)              
+Export our game as EXE for upload.
+Testing the EXE that is built.
+Add "Adam ?" to credit list (for hair graphic).
+Upload game EXE to Global Game Jam web site.
+Fill out rest of Game Jam game page form.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Tasks To Be Completed
 [ ] Squelch sounds - done
 [ ] Blood gushing
