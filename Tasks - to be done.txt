@@ -5,10 +5,10 @@ Must do
 -------
 [x] Fix decapitation sequence (see Dr. Google / asset store).   Les
 [x] After decapitation delay, change to bad end scene           Les
-[ ] Use Transition.Single for good ending in SwipeController    Les
-[ ] Hairstyle sizing proportional to no. of hits                Les
-[ ] Hook up blood gusher.                                       Les
-[ ] Make sure game loops back around from "satisfied customer"  Les
+[x] Make sure game loops back around from "satisfied customer"  Les
+[ ] Use Transition.Single for good ending in SwipeController    Les (do after James+Scott tweaks)
+[ ] Hairstyle sizing proportional to no. of hits                Les (do after James+Scott tweaks)
+[ ] Hook up blood gusher.                                       Les (do after James+Scott tweaks)
 [ ] Hook up sounds for impact (cut and miss)                    Scott
 [ ] Unique pieces of music hooked up                            Scott
 [ ] Score UI                                                    James
