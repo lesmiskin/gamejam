@@ -14,7 +14,7 @@ public class SFXPlayer : MonoBehaviour
         audioSource = GetComponent<AudioSource>();
         playSfx = "ScytheCut";
         play = false;
-        delay = .75f;
+        delay = 0f;
     }
 
     // Update is called once per frame
