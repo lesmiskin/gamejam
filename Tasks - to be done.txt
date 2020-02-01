@@ -4,12 +4,13 @@ Our game on the Game Jam web site: https://globalgamejam.org/node/66510/edit
 Must do
 -------
 [x] Fix decapitation sequence (see Dr. Google / asset store).   Les
-[ ] Score UI                                                    Les
-[ ] Jagged hairstyle sprite replacements.                       Les
-[ ] After decapitation delay, change to bad end scene           Les
+[x] After decapitation delay, change to bad end scene           Les
+[ ] Jagged hairstyle sprite replacements                        Les
+[ ] Use Transition.Single for good ending in SwipeController    Les
 [ ] Hook up blood gusher.                                       Scott
 [ ] Hook up sounds for impact (cut and miss)                    Scott
 [ ] Unique pieces of music hooked up                            Scott
+[ ] Score UI                                                    James
 [ ] Fix swipe / impact timing                                   James
 [ ] Connect the blood splatter with hits.                       James
 [ ] Add nice title and end screens.                             James
