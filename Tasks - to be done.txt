@@ -17,4 +17,8 @@ Tasks To Be Completed
 
 [ ] tweak the bobbing speeds for actual challenge / good gameplay.
 
+[ ] add "Adam ?" to credit list (for hair graphic).
+[ ] make our game page on Global Game Jam web site.
+[ ] export our game as EXE for upload
+
 shorturl.at/zPQTX
