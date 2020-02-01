@@ -9,11 +9,9 @@ Tasks To Be Completed
   [ ] hair particle effects (james help?)
   [ ] screen shake when lopped at.
 
-
-[ ] behead sequence (flying head + blood trails, bounce if possible)
+[ ] behead sequence gets toggled on-demand
   [ ] blood gushing from neck
-  [ ] two images: head and torso
-
+  [ ] blood trails from head
 
 [ ] hair particle effect (explosion, particle effect).
 [ ] blood particle effect when chopping neck.
