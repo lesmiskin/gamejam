@@ -17,8 +17,8 @@ public class CircularMotion : MonoBehaviour
     public float originX = 0;
     public float originY = 0;
 
-    public float speedRange = 0;
-    public float radiusRange = 0;
+    public int  speedRangeMin = 0;
+    public int  speedRangeMax = 0;
 
     // float initialX = 0;
     // float initialY = 0;
@@ -39,7 +39,8 @@ public class CircularMotion : MonoBehaviour
         }
 
         if(completedY) {
-            speed = (float)MqCommon.randomMq(2, 6) / 100;
+            // 2 and 6
+            speed = (float)MqCommon.randomMq(speedRangeMin, speedRangeMax) / 100;
         }
 
         // Apply reverse direction
@@ -59,7 +60,7 @@ public class CircularMotion : MonoBehaviour
 
         Vector3 movement2 = new Vector3(
             transform.position.x, 
-            movement.y,                         // only apply adjustment to Y axis.
+            originY + movement.y,                         // only apply adjustment to Y axis.
             transform.position.z
         );
 
