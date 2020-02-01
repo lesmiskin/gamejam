@@ -18,6 +18,7 @@ Nice to do
 More blood splatters when you lose.
 tweak the bobbing speeds for actual challenge / good gameplay.
 Screen shaking on impact / miss
+Fix bug - head starts falling with gravity immediately
 
 Post-cutoff
 -----------
