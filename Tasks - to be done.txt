@@ -4,13 +4,17 @@ Tasks To Be Completed
 [ ] Title screen
 [ ] Theme sound
 [ ] Splash screens - good/bad endings
+[ ] integrate UI layer (scores, blood decals)
+
+[ ] separate level scene for "5 sweeps, please Mr. Reaper!" (randomised)
+[ ] behead sequence (flying head + blood trails, bounce if possible)
+
 [ ] hair particle effect (explosion, particle effect).
 [ ] blood particle effect when chopping neck.
-[ ] behead sequence (flying head + blood trails, bounce if possible).
-[ ] separate level scene for "5 sweeps, please Mr. Reaper!" (randomised)
-[ ] integrate UI layer (scores, blood decals)
+
 [ ] screen shake + hair superimposed.
 [ ] screen shake + skull superimposed for behead.
+
 [ ] tweak the bobbing speeds for actual challenge / good gameplay.
 
 shorturl.at/zPQTX
