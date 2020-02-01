@@ -17,9 +17,9 @@ Must do
 
 Nice to do
 -------
+[ ] Screen shaking on impact / miss                             Les
 [ ] More blood splatters when you lose.
 [ ] Tweak the bobbing speeds for actual challenge / good gameplay.
-[ ] Screen shaking on impact / miss
 [ ] Fix bug - head starts falling with gravity immediately
 
 Post-cutoff
