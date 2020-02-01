@@ -12,6 +12,11 @@ Tasks To Be Completed
 [ ] behead sequence gets toggled on-demand
   [ ] blood gushing from neck
   [ ] blood trails from head
+  
+[ ] sound effects for cutting & chopping of hair.
+[ ] unique theme for actual gameplay? / change music?
+
+[ ] countdown on main game?
 
 [ ] hair particle effect (explosion, particle effect).
 [ ] blood particle effect when chopping neck.
