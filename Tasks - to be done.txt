@@ -6,9 +6,9 @@ Must do
 [x] Fix decapitation sequence (see Dr. Google / asset store).   Les
 [x] After decapitation delay, change to bad end scene           Les
 [x] Make sure game loops back around from "satisfied customer"  Les
-[ ] Use Transition.Single for good ending in SwipeController    Les (do after James+Scott tweaks)
-[ ] Hairstyle sizing proportional to no. of hits                Les (do after James+Scott tweaks)
-[ ] Hook up blood gusher.                                       Les (do after James+Scott tweaks)
+[ ] Use Transition.Single for good ending in SwipeController    Les (commit after James+Scott tweaks)
+[ ] Hairstyle sizing proportional to no. of hits                Les (commit after James+Scott tweaks)
+[ ] Hook up blood gusher.                                       Les (commit after James+Scott tweaks)
 [ ] Hook up sounds for impact (cut and miss)                    Scott
 [ ] Unique pieces of music hooked up                            Scott
 [ ] Score UI                                                    James
@@ -18,7 +18,7 @@ Must do
 
 Nice to do
 -------
-[ ] Screen shaking on impact / miss                             Les
+[ ] Screen shaking on impact / miss                             Les (commit after James+Scott tweaks)
 [ ] More blood splatters when you lose.
 [ ] Tweak the bobbing speeds for actual challenge / good gameplay.
 [ ] Fix bug - head starts falling with gravity immediately
