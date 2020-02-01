@@ -7,6 +7,7 @@ Must do
 [x] After decapitation delay, change to bad end scene           Les
 [ ] Jagged hairstyle sprite replacements                        Les
 [ ] Use Transition.Single for good ending in SwipeController    Les
+[ ] Fix badly-cropped "satisfied customer" scene image          Les
 [ ] Hook up blood gusher.                                       Scott
 [ ] Hook up sounds for impact (cut and miss)                    Scott
 [ ] Unique pieces of music hooked up                            Scott
