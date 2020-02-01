@@ -8,7 +8,7 @@ Must do
 [ ] Use Transition.Single for good ending in SwipeController    Les
 [ ] Fix badly-cropped "satisfied customer" scene image          Les
 [ ] Hairstyle sizing proportional to no. of hits                Les
-[ ] Hook up blood gusher.                                       Scott
+[ ] Hook up blood gusher.                                       Les
 [ ] Hook up sounds for impact (cut and miss)                    Scott
 [ ] Unique pieces of music hooked up                            Scott
 [ ] Score UI                                                    James
