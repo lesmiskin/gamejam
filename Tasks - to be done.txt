@@ -2,12 +2,18 @@ Tasks To Be Completed
 [ ] Squelch sounds - done
 [ ] Blood gushing
 [ ] Title screen
-[ ] Theme sound
 [ ] Splash screens - good/bad endings
 [ ] integrate UI layer (scores, blood decals)
 
-[ ] separate level scene for "5 sweeps, please Mr. Reaper!" (randomised)
+[ ] de-scale hair when lopped at.
+  [ ] hair particle effects (james help?)
+  [ ] screen shake when lopped at.
+
+
 [ ] behead sequence (flying head + blood trails, bounce if possible)
+  [ ] blood gushing from neck
+  [ ] two images: head and torso
+
 
 [ ] hair particle effect (explosion, particle effect).
 [ ] blood particle effect when chopping neck.
