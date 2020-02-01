@@ -10,12 +10,10 @@ Must do
 [x] Fix swipe / impact timing                                   James
 [x] Connect the blood splatter with hits.                       James
 [x] Add nice title and end screens.                             James
-
-[ ] Use Transition.Single for good ending in SwipeController    Les
-[ ] Hook up blood gusher.                                       Les
-[ ] Screen shaking on impact / miss                             Les
-
-[ ] Hairstyle sizing proportional to no. of hits                Les
+[x] Use Transition.Single for good ending in SwipeController    Les
+[x] Hook up blood gusher.                                       Les
+[x] Screen shaking on impact / miss                             Les
+[x] Hairstyle sizing proportional to no. of hits                Les
 
 [ ] Extra score UI elements                                     Les
 
