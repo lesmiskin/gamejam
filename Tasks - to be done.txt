@@ -5,7 +5,8 @@ Tasks To Be Completed
 [ ] Splash screens - good/bad endings
 [ ] integrate UI layer (scores, blood decals)
 
-[ ] de-scale hair when lopped at.
+[ ] effects for hair lopping
+  [ ] hair sprite changes when lopped (just downscale it, rotate it left a bit + particle effects)
   [ ] hair particle effects (james help?)
   [ ] screen shake when lopped at.
 
