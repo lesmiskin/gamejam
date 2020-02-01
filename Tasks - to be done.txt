@@ -27,4 +27,6 @@ Tasks To Be Completed
 [ ] make our game page on Global Game Jam web site.
 [ ] export our game as EXE for upload
 
+[ ] check licensing for assets used (CC-BY)
+
 shorturl.at/zPQTX
