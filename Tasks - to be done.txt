@@ -36,3 +36,6 @@ Post-cutoff
 [ ] Add "Adam ?" to credit list (for hair graphic).
 [ ] Upload game EXE to Global Game Jam web site.
 [ ] Fill out rest of Game Jam game page form.
+
+
+https://gamedevbeginner.com/10-unity-audio-tips-that-you-wont-find-in-the-tutorials/
